@@ -9,6 +9,10 @@
 [Get the context and bring some widget to handle some event](https://www.notion.so/Get-the-context-and-bring-some-widget-to-handle-some-event-136a4ae0fd55477fb0f55d0a4ada97f6)
 
 
+# Template
+
+[Bloc, RxDart, Provider](https://github.com/paigeshin/privder_bloc_rxdart_template)
+
 # Tips
 
 [Visibug (useful google chrome exstensions)](https://www.notion.so/Visibug-useful-google-chrome-exstensions-988915c4eed148bf9b92a1b1fc6ecf11)
