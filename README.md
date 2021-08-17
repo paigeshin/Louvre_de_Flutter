@@ -35,6 +35,10 @@
 
 [Firebase Hosting](https://www.notion.so/Firebase-Hosting-27b1f160808448b7a2944bcd6ec5b55f)
 
+# State Management
+
+[Provider tutorial](https://github.com/paigeshin/FlutterProviderTutorial)
+
 # Network
 
 [Network](https://github.com/paigeshin/flutter_network)
