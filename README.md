@@ -46,3 +46,9 @@
 # Flutter Animation
 
 [Flutter Animation Basic](https://github.com/paigeshin/flutter_animation) 
+
+# Flutter Lectures
+
+[Stephen Grider](https://github.com/StephenGrider/FlutterCasts)
+
+# Stephens Course
