@@ -39,6 +39,8 @@
 
 [Provider tutorial](https://github.com/paigeshin/FlutterProviderTutorial)
 
+[getX Tutorial](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL)
+
 # Network
 
 [Network](https://github.com/paigeshin/flutter_network)
