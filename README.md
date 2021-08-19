@@ -84,7 +84,11 @@
 
 # Stephens Course
 
-(Stephen)[https://github.com/paigeshin/flutter_stephen_course]
+[Stephen](https://github.com/paigeshin/flutter_stephen_course)
+
+# Responsive Layout
+
+[ResponsiveLayout from Google](https://github.com/paigeshin/flutter_responsive_layout)
 
 # Basic
 
