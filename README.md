@@ -13,7 +13,14 @@
 
 [Create Dart Library and publish it to pub](https://github.com/paigeshin/dart_create_library)
 
+# Essential Functionality
+
+[Image Picker & Image Cropping & Image File size handling with getX](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL/tree/master/ImagePickCropUploadFlutterGetx-master)
+
+
 # Template
+
+[Image Picker & Image Cropping & Image File size handling with getX](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL/tree/master/ImagePickCropUploadFlutterGetx-master)
 
 [Typical getX Structure Example](https://www.notion.so/Typical-getX-Structure-Example-e0e3216de9bf4c6796ae17dde6c3c7a5)
 
@@ -50,6 +57,8 @@
 # Network
 
 [Network](https://github.com/paigeshin/flutter_network)
+
+[Image Upload with getX](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL/tree/master/ImagePickCropUploadFlutterGetx-master)
 
 # Form
 
