@@ -15,6 +15,12 @@
 
 # Template
 
+[Typical getX Structure Example](https://www.notion.so/Typical-getX-Structure-Example-e0e3216de9bf4c6796ae17dde6c3c7a5)
+
+[Project Structure, clean architecture ](https://www.notion.so/Project-Structure-clean-architecture-2bb69d7b56d64b159008c199282c1a2f)
+
+[StateMinxin with getConnect](https://www.notion.so/StateMinxin-with-getConnect-4115db50598347aaa2e44541568c51ad)
+
 [Bloc without library, SQLite, RxDart, Provider without library](https://github.com/paigeshin/Flutter-bloc-sqlite-rxdart-template)
 
 [Bloc, RxDart, Provider](https://github.com/paigeshin/privder_bloc_rxdart_template)
