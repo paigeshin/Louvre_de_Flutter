@@ -80,6 +80,8 @@
 
 [Bloc, RxDart, Provider](https://github.com/paigeshin/privder_bloc_rxdart_template)
 
+[Responsive - Adaptive Layout](https://github.com/paigeshin/ultimate_responsive_adaptive_flutter_layout)
+
 # Tips
 
 [Visibug (useful google chrome exstensions)](https://www.notion.so/Visibug-useful-google-chrome-exstensions-988915c4eed148bf9b92a1b1fc6ecf11)
