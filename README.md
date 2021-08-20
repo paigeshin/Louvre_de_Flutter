@@ -8,6 +8,19 @@
 
 [Get the context and bring some widget to handle some event](https://www.notion.so/Get-the-context-and-bring-some-widget-to-handle-some-event-136a4ae0fd55477fb0f55d0a4ada97f6)
 
+[how to resolve 'unable to find bundled java version'](https://www.notion.so/how-to-resolve-unable-to-find-bundled-java-version-508ebb800dde4e64adcfab318d743f5f)
+
+[vscode setup ](https://www.notion.so/vscode-setup-0d301a35662b488296e3c614025e6ae3)
+
+[How to set Flutter SDK](https://stackoverflow.com/questions/34532063/finding-android-sdk-on-mac-and-adding-to-path)  
+
+[Delete entirely vscode](https://stackoverflow.com/questions/42603103/how-to-completely-uninstall-vscode-on-mac)
+
+[vsCode extensions for flutter developer](https://www.notion.so/vsCode-extensions-for-flutter-developer-b465f7e0f0c14f908b04fa7a7eca9c28)
+
+# Modulization 
+
+[Create Dart Local Package ](https://www.notion.so/Create-Dart-Local-Package-5531af51599147b5924e1d90f5172ebd)
 
 # Create Library
 
@@ -17,6 +30,41 @@
 
 [Image Picker & Image Cropping & Image File size handling with getX](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL/tree/master/ImagePickCropUploadFlutterGetx-master)
 
+# Provider 
+
+[Change Notifier as ViewModel](https://www.notion.so/Change-Notifier-as-ViewModel-07bba7ade8b946a88b49ad7f80f10608)
+
+[Why do I have to use Proxy Provider?](https://www.notion.so/Why-do-I-have-to-use-Proxy-Provider-20c0798f53e340909fa807cf7c84712b)
+
+# Libraries
+
+[Flutter useful libraries](https://www.notion.so/Flutter-useful-libraries-89fa15cec3a14be587b4248481183b96)
+
+# My Reusable Widget
+
+[Size Config to support multiple screen](https://www.notion.so/Size-Config-to-support-multiple-screen-517146eeb1c24230af42bdc8f15fb302)
+
+[Responsive Widget to support multiples screen](https://www.notion.so/Responsive-Widget-to-support-multiples-screen-2b3b647837d64ffb9070070879ceb607)
+
+# Apdative & Responsive Layout
+
+[Flutter Responsive Layout with getX](https://www.notion.so/Flutter-Responsive-Layout-with-getX-12afb7bd5d6c40e88a05f69897f987e3)
+
+[Flutter Responsive Layout, Flexible vs Expanded](https://www.notion.so/Flutter-Responsive-Layout-Flexible-vs-Expanded-cc8b009cbe704eb6b80b06e1e0d08710)
+
+[Smaller Screen, Font-size handling](https://www.notion.so/Smaller-Screen-Font-size-handling-f8ad359f613546d795e279989c1f4b92)
+
+[https://flutter.dev/docs/development/ui/layout/adaptive-responsive](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
+
+[LayoutBuilder & VisualDensity](https://www.notion.so/LayoutBuilder-VisualDensity-b0a13ba2727e4355948427bd9ec65e74)
+
+[Size Config to support multiple screen](https://www.notion.so/Size-Config-to-support-multiple-screen-517146eeb1c24230af42bdc8f15fb302)
+
+[Responsive Widget to support multiples screen](https://www.notion.so/Responsive-Widget-to-support-multiples-screen-2b3b647837d64ffb9070070879ceb607)
+
+# Flutter Shell
+
+[Flutter enable disable other platforms](https://www.notion.so/Flutter-enable-disable-other-platforms-921dedc9e32b489188845048972c7cee)
 
 # Template
 
