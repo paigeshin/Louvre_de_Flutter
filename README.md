@@ -66,6 +66,16 @@
 
 [Flutter enable disable other platforms](https://www.notion.so/Flutter-enable-disable-other-platforms-921dedc9e32b489188845048972c7cee)
 
+# Properties
+
+[Scaffold - resizeToAvoidBottomInset, on scaffold](https://www.notion.so/resizeToAvoidBottomInset-on-scaffold-587e6a830ce242bba310154e0656f2f2)
+
+[Tabbed AppBar](https://www.notion.so/Tabbed-AppBar-bb164d4de8254a19b195d138a44f4613)
+
+# Layout
+
+[Tabbed AppBar](https://www.notion.so/Tabbed-AppBar-bb164d4de8254a19b195d138a44f4613)
+
 # Template
 
 [Image Picker & Image Cropping & Image File size handling with getX](https://github.com/paigeshin/Flutter_GetX_COMPLETE_TUTORIAL/tree/master/ImagePickCropUploadFlutterGetx-master)
