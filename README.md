@@ -35,6 +35,14 @@
 
 [Create Dart Local Package ](https://www.notion.so/Create-Dart-Local-Package-5531af51599147b5924e1d90f5172ebd)
 
+# Library
+
+[Essential Libraries](https://blog.devgenius.io/10-useful-libraries-to-avoid-complexity-when-you-are-developing-a-flutter-app-7004044851ce?_branch_match_id=957890926807233297&source=userActivityShare-e26f93196089-1635049592&gi=a88964b61d52)
+
+# Article
+
+https://blog.devgenius.io/10-useful-libraries-to-avoid-complexity-when-you-are-developing-a-flutter-app-7004044851ce?_branch_match_id=957890926807233297&source=userActivityShare-e26f93196089-1635049592&gi=a88964b61d52
+
 # Create Library
 
 [Create Dart Library and publish it to pub](https://github.com/paigeshin/dart_create_library)
